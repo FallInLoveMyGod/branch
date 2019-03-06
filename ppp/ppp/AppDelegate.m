@@ -17,7 +17,9 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    // 页面启动窗口111
+
+    // 我是default xiexie  zaishishikan
+
     return YES;
 }
 
