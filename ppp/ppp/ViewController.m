@@ -30,6 +30,10 @@ static NSString *cellId = @"UICollectionViewCell";
 //    [self.view addSubview:self.myCollection];
 //    [self addChildView];
     
+    //rxdghfhfhgfnhgcbvc
+    
+    
+    //xfghchdhfjyuhgguhgfhu
     CustomTextView *textV = [[CustomTextView alloc] initWithFrame:CGRectMake(10, 100, 394, 300)];
     textV.placeHolder = @"测试";
     textV.textCount = 120;
