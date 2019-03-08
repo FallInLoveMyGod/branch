@@ -38,6 +38,7 @@
 }
 
 - (void)setupUI {
+    //asdbf dsfdasdfdsdasvdsdv
     [self addSubview:self.textV];
     [self addSubview:self.textNumLab];
     
